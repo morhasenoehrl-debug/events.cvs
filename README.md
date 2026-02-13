@@ -1,5 +1,3 @@
-# events.cvs
-historical data for my project
 
 Fukushima 2011 (Japan),37.42,141.03,9.1,Tsunami,The Tohoku earthquake triggered a devastating tsunami and a nuclear disaster.
 Indian Ocean 2004,3.31,95.85,9.3,Tsunami,One of the deadliest tsunamis in history with over 230,000 casualties.
